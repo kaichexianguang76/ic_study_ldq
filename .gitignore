@@ -48,3 +48,7 @@ Thumbs.db
 *.mov
 *.wmv
 
+
+# MATLAB autosave files and Live Scripts
+*.asv
+*.mlx
